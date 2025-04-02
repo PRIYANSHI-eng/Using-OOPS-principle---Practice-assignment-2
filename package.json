@@ -1,0 +1,12 @@
+{
+  "name": "using-oops-principle---practice-assignment-2",
+  "version": "1.0.0",
+  "description": "This JavaScript-based Inventory Management System allows users to add products, manage stock, and track sales.",
+  "main": "inventory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

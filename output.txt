@@ -1,0 +1,9 @@
+Added product: Laptop, ID: 101, Price: $1200
+Added product: Phone, ID: 102, Price: $800
+Added 10 units to Laptop. New stock: 10
+Added 5 units to Phone. New stock: 5
+Sold 3 units of Laptop. Remaining stock: 7
+Sold 2 units of Phone. Remaining stock: 3
+Not enough stock for Laptop. Available: 7, Requested: 8
+Stock for Laptop: 7
+Stock for Phone: 3
